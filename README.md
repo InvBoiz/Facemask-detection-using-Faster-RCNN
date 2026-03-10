@@ -44,3 +44,4 @@ Sau đó thay head bằng FastRCNNPredictor(in_features, num_classes=4) với s�
 Sử dụng Adam optimizer với lr=0.0005 rồi train trong 10 epoch
 Đặt checkpoint và lưu checkpoint sau mỗi epoch nếu loss hiện tại là nhỏ nhất
 
+Truong Le Minh Hieu
